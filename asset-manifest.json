@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/chimney-installation/static/css/main.c5ffe3af.chunk.css",
+    "main.js": "/chimney-installation/static/js/main.0a8952ee.chunk.js",
+    "main.js.map": "/chimney-installation/static/js/main.0a8952ee.chunk.js.map",
+    "runtime-main.js": "/chimney-installation/static/js/runtime-main.5795f1a8.js",
+    "runtime-main.js.map": "/chimney-installation/static/js/runtime-main.5795f1a8.js.map",
+    "static/js/2.5403ddfd.chunk.js": "/chimney-installation/static/js/2.5403ddfd.chunk.js",
+    "static/js/2.5403ddfd.chunk.js.map": "/chimney-installation/static/js/2.5403ddfd.chunk.js.map",
+    "index.html": "/chimney-installation/index.html",
+    "static/css/main.c5ffe3af.chunk.css.map": "/chimney-installation/static/css/main.c5ffe3af.chunk.css.map",
+    "static/js/2.5403ddfd.chunk.js.LICENSE.txt": "/chimney-installation/static/js/2.5403ddfd.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/chimney-installation/static/media/fon.4f8f347e.png",
+    "static/media/Calculater.scss": "/chimney-installation/static/media/calcbtn.f46ff5a3.png",
+    "static/media/licensia1.86369042.png": "/chimney-installation/static/media/licensia1.86369042.png",
+    "static/media/licensia2.b0322b15.png": "/chimney-installation/static/media/licensia2.b0322b15.png",
+    "static/media/licensia3.b0322b15.png": "/chimney-installation/static/media/licensia3.b0322b15.png",
+    "static/media/logo.44b734d5.png": "/chimney-installation/static/media/logo.44b734d5.png",
+    "static/media/map.78274bf6.png": "/chimney-installation/static/media/map.78274bf6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5795f1a8.js",
+    "static/js/2.5403ddfd.chunk.js",
+    "static/css/main.c5ffe3af.chunk.css",
+    "static/js/main.0a8952ee.chunk.js"
+  ]
+}
